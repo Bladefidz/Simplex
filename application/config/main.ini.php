@@ -4,7 +4,7 @@
 
 [BASE]
 ; Home directory or your domain
-home = '';
+home = 'localhost/Simplex';
 
 ; Directory or assets - js, css, image, etc
 assets_dir = 'assets';
@@ -17,7 +17,7 @@ date_time = 'Asia/Jakarta';
 
 [ROUTE]
 ; Class name of your default controller *case sensitive
-default_controller = 'Home';
+default_controller = 'Example';
 
 ; Method name of your default controller class *case sensitive
 default_method = 'index';
