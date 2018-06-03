@@ -1,6 +1,10 @@
 # Simplex
 
-Simplex is hackable MVC php framework build in minimal specification of Model - View - Controller. So you need build your own library to grow bigger app. 
+Simplex is hackable MVC php framework build in minimal specification of Model - View - Controller. So you need build your own library to grow bigger app.
+
+## Implementation
+
+* [PPDB](https://github.com/Bladefidz/ppdb)
 
 ### Version
 Alpha
@@ -48,8 +52,8 @@ Hafitto Hafidz
 
 ### Todos
 
- - Learn to be simple and solve.
- - Design the better router.
+ - Design better router.
+ - Change deprecated security library (`mcrypt`). 
 
 License
 ----
